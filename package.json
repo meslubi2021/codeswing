@@ -454,7 +454,7 @@
     "mobx": "^6.0.4",
     "os-browserify": "^0.3.0",
     "path-browserify": "^1.0.1",
-    "postcss": "^8.4.32",
+    "postcss": "^8.4.33",
     "pug": "^3.0.3",
     "sass": "^1.32.7",
     "sass.js": "^0.11.1",
@@ -462,6 +462,6 @@
     "svelte": "^3.49.0",
     "typescript": "^4.1.2",
     "vsls": "^1.0.3015",
-    "vue-template-compiler": "^2.6.12"
+    "vue-template-compiler": "^2.7.16"
   }
 }
